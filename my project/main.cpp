@@ -4,6 +4,7 @@ using namespace std;
 int sum(int a,int b){
 return a+b;
 }
+
 int main()
 {
     cout << "Hello world!" << endl;
@@ -11,4 +12,7 @@ int main()
     cout << 4 << endl;
 
     return 0;
+}
+int sub(int a,int b){
+return a-b;
 }
