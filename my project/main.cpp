@@ -4,7 +4,9 @@ using namespace std;
 int sum(int a,int b){
 return a+b;
 }
-
+int ahmed(int g){
+return g*5;
+}
 int main()
 {
     cout << "Hello world!" << endl;
